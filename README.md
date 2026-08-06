@@ -1,12 +1,22 @@
-<h1 align="center">Hi, I'm Avneet Singh 👋</h1>
-<h3 align="center">Software Developer & GenAI Engineer | Building production-grade Agentic AI & RAG systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/avneet-singh-18s27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:singhavneet771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Avneet%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Building+production-grade+RAG+%26+Agentic+AI+systems;3%2B+years+in+GenAI%2C+LLMs+%26+Full-Stack+Dev;Delivered+8%2B+GenAI+use+cases+in+BFSI+%26+Compliance;Turning+legacy+systems+into+AI-driven+platforms" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/avneet-singh-18s27">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:singhavneet771@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=av18s&style=for-the-badge&color=2C5364&label=Profile+Views"/>
+
+</div>
+
+<br/>
 
 ### 🧠 About Me
 
@@ -56,9 +66,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=av18s&show_icons=true&theme=default&count_private=true" alt="Avneet's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=av18s&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=av18s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Avneet's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=av18s&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=av18s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+> **Note:** the classic `github-readme-stats.vercel.app` public instance has been unstable for months (GitHub API rate limits). The cards above use [github-stats-extended](https://github.com/stats-organization/github-stats-extended), its actively maintained, more reliable successor — same syntax, just a different domain. If a card ever shows "Something went wrong," it's almost always temporary; a page refresh usually fixes it.
 
 ---
 
@@ -67,4 +83,6 @@
 - 📧 singhavneet771@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/avneet-singh-18s27)
 
-<p align="center"><i>Architecting AI, one agent at a time.</i></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</div>
